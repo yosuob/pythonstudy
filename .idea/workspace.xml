@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d2859e-2cc4-4b88-b8ee-8156821f7cc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/day1/EX1-hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/EX1-hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/EX1_2-comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/EX1_2-comment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/EX2_1-circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/EX2_1-circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/EX2_2-variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/EX2_2-variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/EX2_4-String.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/EX2_4-String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/EX2_5-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/EX2_5-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/start_at.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -68,11 +64,21 @@
       <option name="presentableId" value="Default" />
       <updated>1671607569515</updated>
     </task>
+    <task id="LOCAL-00001" summary="20221222">
+      <created>1671681941825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671681941825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="20221222" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221222" />
   </component>
 </project>
