@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d2859e-2cc4-4b88-b8ee-8156821f7cc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day3/EX3_3-format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/EX3_4-input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/EX3_5-casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/EX3_6-arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/EX3_7-assingment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/EX3_8-comparison.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_at.md" beforeDir="false" afterPath="$PROJECT_DIR$/start_at.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671685872742</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20221222">
+      <created>1671769129981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671769129981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
