@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d2859e-2cc4-4b88-b8ee-8156821f7cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/EX3_3-format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/EX3_4-input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/EX3_5-casting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/EX3_6-arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/EX3_7-assingment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/EX3_8-comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX04_1-if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/Ex3_11-conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/Ex3_11-conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start_at.md" beforeDir="false" afterPath="$PROJECT_DIR$/start_at.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671769129981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20221222">
+      <created>1671772736211</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671772736211</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20221222">
+      <created>1671772747044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671772747044</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
