@@ -5,9 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d2859e-2cc4-4b88-b8ee-8156821f7cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day4/EX04_1-if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_10-continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_11-eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_12-divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_13-enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_14-etc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_15-homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_2-while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_3-while2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_4-while3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_5-while4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_6-for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_7-for-range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_8-for-dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/EX4_9-break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_1-method_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_10-module4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_11-module5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_2-method-string2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_3-method-set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_4-function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_5-variable-local-global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_6-function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_7-module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_8-module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/EX5_9-module3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_1-math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_10-withHello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_11-readHello2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_12-readHello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_13-resdHello4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_14-readHello5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_15-readHello6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_2-random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_3-time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_4-datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_5-external.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_6-practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_7-makeFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_8-make_hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/EX6_9-appendHello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/Ex3_11-conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/Ex3_11-conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/EX04_1-if.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/EX4_1-if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start_at.md" beforeDir="false" afterPath="$PROJECT_DIR$/start_at.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +89,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -115,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671772747044</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20221229">
+      <created>1672287196936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672287196936</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +170,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="20221222" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221222" />
+    <MESSAGE value="20221229" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221229" />
   </component>
 </project>
