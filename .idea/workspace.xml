@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d2859e-2cc4-4b88-b8ee-8156821f7cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/EX7_1-copyfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_10-constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_11-destructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_2-csvReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_3-carWriter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_4-csvQuoteReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_5-carReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_6-jsonWriter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_7-jsonReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_8-object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/EX7_9-object2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/학생명단.CSV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/회원명단.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_1-cls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_2-inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_3-inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_4-magicmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_5-abstractmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_6-Exception1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_7-exception2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_8-exception3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/EX8_9-exception4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/Goto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/jupyternotebook/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start_at.md" beforeDir="false" afterPath="$PROJECT_DIR$/start_at.md" afterDir="false" />
     </list>
@@ -147,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672574781511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20230107">
+      <created>1673069682858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673069682858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +161,18 @@
     <MESSAGE value="20221222" />
     <MESSAGE value="20221229" />
     <MESSAGE value="20230101" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230101" />
+    <MESSAGE value="20230107" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230107" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day8/EX8_8-exception3.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
